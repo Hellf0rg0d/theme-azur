@@ -14,7 +14,7 @@ git submodule add https://github.com/Hellf0rg0d/theme-azur.git themes/azur
 Then add the theme to your `hugo.toml` / `hugo.yaml` / `hugo.json`:
 
 ```toml
-theme = "azur"
+theme = 'theme-azur'
 ```
 
 ## Example Site
