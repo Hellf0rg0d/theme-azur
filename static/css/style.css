@@ -59,7 +59,7 @@ body::before {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url('../images/white-noise-image.jpeg');
+    background-image: url('../images/bg.jpg');
     background-repeat: repeat;
     opacity: 0.06; /* Subtle white noise over dark background */
     z-index: -1;
