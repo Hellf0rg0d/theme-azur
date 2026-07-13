@@ -1,0 +1,12 @@
+name = "Azur"
+license = "MIT"
+licenselink = "https://github.com/Hellf0rg0d/theme-azur/blob/master/LICENSE"
+description = "Azur Theme for Hugo"
+homepage = "https://github.com/Hellf0rg0d/theme-azur"
+tags = ["blog", "responsive"]
+features = ["blog"]
+min_version = "0.146.0"
+
+[author]
+  name = "Hellf0rg0d"
+  homepage = "https://github.com/Hellf0rg0d"
